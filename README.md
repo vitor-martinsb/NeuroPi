@@ -1,7 +1,7 @@
 # Neurapi
 
 <p align="center">
-  <img alt="banner" src="/images/openbci_large.png/" width="400">
+  <img alt="Flowcharts.png" src="/" width="400">
 </p>
 <p align="center">
   Provide a stable BCI System
