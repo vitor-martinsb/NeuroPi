@@ -1,11 +1,6 @@
 # Neurapi
 
-<p align="center">
-  <img alt="Flowcharts.png" src="/Flowcharts.png" width="400">
-</p>
-<p align="center">
-  Provide a stable BCI System
-</p>
+![Flowcharts](https://github.com/vitor-martinsb/BCI_OB-RP3/assets/59899402/95d2ff77-9775-44a4-9541-9231594b5ed6)
 
 Thank you for visiting the Neurapi repository. This Python code is designed for use with the OpenBCI interface on Raspberry Pi 3.
 
