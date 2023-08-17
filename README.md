@@ -1,6 +1,6 @@
 # Neurapi
 
-![Flowcharts-removebg-preview](https://github.com/vitor-martinsb/BCI_OB-RP3/assets/59899402/ebeb4e6b-fb74-40ab-916d-ecdc35f1df5c){:width="150%"}
+![Flowcharts](https://github.com/vitor-martinsb/BCI_OB-RP3/assets/59899402/dad3c8e3-5c4d-4bc6-91e7-1b31e0d65ac0)
 
 
 Thank you for visiting the Neurapi repository. This Python code is designed for use with the OpenBCI interface on Raspberry Pi 3.
