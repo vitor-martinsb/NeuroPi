@@ -1,4 +1,4 @@
-# NeuraPi
+# NeuroPi
 
 ![Flowcharts](https://github.com/vitor-martinsb/BCI_OB-RP3/assets/59899402/dad3c8e3-5c4d-4bc6-91e7-1b31e0d65ac0)
 
